@@ -7,7 +7,7 @@
 [![Cambridge](https://img.shields.io/badge/University%20of%20Cambridge-MEng%20Thesis-blue?style=flat-square)](https://www.cam.ac.uk)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)]()
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)]()
+
 
 *Supervised by Professor Máté Lengyel · Co-supervised by Puria Radmard · Department of Engineering*
 
